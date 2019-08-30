@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>spring-pipeline</artifactId>
+	<artifactId>jenkins-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-pipeline</name>
 	<description>Demo project for Spring Boot</description>
